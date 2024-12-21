@@ -1,0 +1,47 @@
+[0.937s] Invoking command in '/root/ros_ws/src/lab_1_package': PYTHONPATH=/root/ros_ws/build/lab_1_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros_ws/install/lab_1_package/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lab_1_package build --build-base /root/ros_ws/build/lab_1_package/build install --record /root/ros_ws/build/lab_1_package/install.log --single-version-externally-managed install_data
+[1.141s] running egg_info
+[1.142s] creating ../../build/lab_1_package/lab_1_package.egg-info
+[1.155s] writing ../../build/lab_1_package/lab_1_package.egg-info/PKG-INFO
+[1.156s] writing dependency_links to ../../build/lab_1_package/lab_1_package.egg-info/dependency_links.txt
+[1.156s] writing entry points to ../../build/lab_1_package/lab_1_package.egg-info/entry_points.txt
+[1.156s] writing requirements to ../../build/lab_1_package/lab_1_package.egg-info/requires.txt
+[1.156s] writing top-level names to ../../build/lab_1_package/lab_1_package.egg-info/top_level.txt
+[1.156s] writing manifest file '../../build/lab_1_package/lab_1_package.egg-info/SOURCES.txt'
+[1.183s] reading manifest file '../../build/lab_1_package/lab_1_package.egg-info/SOURCES.txt'
+[1.183s] adding license file 'LICENSE'
+[1.183s] writing manifest file '../../build/lab_1_package/lab_1_package.egg-info/SOURCES.txt'
+[1.183s] running build
+[1.183s] running build_py
+[1.183s] creating /root/ros_ws/build/lab_1_package/build
+[1.184s] creating /root/ros_ws/build/lab_1_package/build/lib
+[1.184s] creating /root/ros_ws/build/lab_1_package/build/lib/lab_1_package
+[1.184s] copying lab_1_package/move_robot.py -> /root/ros_ws/build/lab_1_package/build/lib/lab_1_package
+[1.184s] copying lab_1_package/__init__.py -> /root/ros_ws/build/lab_1_package/build/lib/lab_1_package
+[1.184s] running install
+[1.190s] running install_lib
+[1.204s] creating /root/ros_ws/install/lab_1_package/lib/python3.12/site-packages/lab_1_package
+[1.204s] copying /root/ros_ws/build/lab_1_package/build/lib/lab_1_package/move_robot.py -> /root/ros_ws/install/lab_1_package/lib/python3.12/site-packages/lab_1_package
+[1.204s] copying /root/ros_ws/build/lab_1_package/build/lib/lab_1_package/__init__.py -> /root/ros_ws/install/lab_1_package/lib/python3.12/site-packages/lab_1_package
+[1.205s] byte-compiling /root/ros_ws/install/lab_1_package/lib/python3.12/site-packages/lab_1_package/move_robot.py to move_robot.cpython-312.pyc
+[1.205s] byte-compiling /root/ros_ws/install/lab_1_package/lib/python3.12/site-packages/lab_1_package/__init__.py to __init__.cpython-312.pyc
+[1.206s] running install_data
+[1.206s] creating /root/ros_ws/install/lab_1_package/share/ament_index
+[1.206s] creating /root/ros_ws/install/lab_1_package/share/ament_index/resource_index
+[1.206s] creating /root/ros_ws/install/lab_1_package/share/ament_index/resource_index/packages
+[1.206s] copying resource/lab_1_package -> /root/ros_ws/install/lab_1_package/share/ament_index/resource_index/packages
+[1.206s] copying package.xml -> /root/ros_ws/install/lab_1_package/share/lab_1_package
+[1.206s] creating /root/ros_ws/install/lab_1_package/share/lab_1_package/urdf
+[1.206s] copying urdf/robot.urdf -> /root/ros_ws/install/lab_1_package/share/lab_1_package/urdf
+[1.207s] creating /root/ros_ws/install/lab_1_package/share/lab_1_package/launch
+[1.207s] copying launch/display.launch.py -> /root/ros_ws/install/lab_1_package/share/lab_1_package/launch
+[1.208s] copying launch/gazebo_sim.launch.py -> /root/ros_ws/install/lab_1_package/share/lab_1_package/launch
+[1.208s] creating /root/ros_ws/install/lab_1_package/share/lab_1_package/rviz
+[1.208s] copying rviz/urdf.rviz -> /root/ros_ws/install/lab_1_package/share/lab_1_package/rviz
+[1.209s] creating /root/ros_ws/install/lab_1_package/share/lab_1_package/worlds
+[1.209s] copying worlds/my_world.sdf -> /root/ros_ws/install/lab_1_package/share/lab_1_package/worlds
+[1.210s] running install_egg_info
+[1.225s] Copying ../../build/lab_1_package/lab_1_package.egg-info to /root/ros_ws/install/lab_1_package/lib/python3.12/site-packages/lab_1_package-0.0.0-py3.12.egg-info
+[1.225s] running install_scripts
+[1.319s] Installing move_robot script to /root/ros_ws/install/lab_1_package/lib/lab_1_package
+[1.319s] writing list of installed files to '/root/ros_ws/build/lab_1_package/install.log'
+[1.345s] Invoked command in '/root/ros_ws/src/lab_1_package' returned '0': PYTHONPATH=/root/ros_ws/build/lab_1_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros_ws/install/lab_1_package/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lab_1_package build --build-base /root/ros_ws/build/lab_1_package/build install --record /root/ros_ws/build/lab_1_package/install.log --single-version-externally-managed install_data

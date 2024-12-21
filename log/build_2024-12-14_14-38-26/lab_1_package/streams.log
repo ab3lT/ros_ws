@@ -1,0 +1,22 @@
+[0.602s] Invoking command in '/root/ros_ws/src/lab_1_package': PYTHONPATH=/root/ros_ws/build/lab_1_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros_ws/install/lab_1_package/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lab_1_package build --build-base /root/ros_ws/build/lab_1_package/build install --record /root/ros_ws/build/lab_1_package/install.log --single-version-externally-managed install_data
+[0.809s] running egg_info
+[0.822s] writing ../../build/lab_1_package/lab_1_package.egg-info/PKG-INFO
+[0.822s] writing dependency_links to ../../build/lab_1_package/lab_1_package.egg-info/dependency_links.txt
+[0.823s] writing entry points to ../../build/lab_1_package/lab_1_package.egg-info/entry_points.txt
+[0.823s] writing requirements to ../../build/lab_1_package/lab_1_package.egg-info/requires.txt
+[0.823s] writing top-level names to ../../build/lab_1_package/lab_1_package.egg-info/top_level.txt
+[0.851s] reading manifest file '../../build/lab_1_package/lab_1_package.egg-info/SOURCES.txt'
+[0.851s] adding license file 'LICENSE'
+[0.852s] writing manifest file '../../build/lab_1_package/lab_1_package.egg-info/SOURCES.txt'
+[0.852s] running build
+[0.852s] running build_py
+[0.852s] running install
+[0.857s] running install_lib
+[0.871s] running install_data
+[0.871s] running install_egg_info
+[0.885s] removing '/root/ros_ws/install/lab_1_package/lib/python3.12/site-packages/lab_1_package-0.0.0-py3.12.egg-info' (and everything under it)
+[0.885s] Copying ../../build/lab_1_package/lab_1_package.egg-info to /root/ros_ws/install/lab_1_package/lib/python3.12/site-packages/lab_1_package-0.0.0-py3.12.egg-info
+[0.886s] running install_scripts
+[0.983s] Installing move_robot script to /root/ros_ws/install/lab_1_package/lib/lab_1_package
+[0.984s] writing list of installed files to '/root/ros_ws/build/lab_1_package/install.log'
+[1.009s] Invoked command in '/root/ros_ws/src/lab_1_package' returned '0': PYTHONPATH=/root/ros_ws/build/lab_1_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros_ws/install/lab_1_package/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lab_1_package build --build-base /root/ros_ws/build/lab_1_package/build install --record /root/ros_ws/build/lab_1_package/install.log --single-version-externally-managed install_data

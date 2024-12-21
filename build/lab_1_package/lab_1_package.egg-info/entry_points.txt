@@ -1,0 +1,2 @@
+[console_scripts]
+move_robot = lab_1_package.move_robot:main
