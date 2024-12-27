@@ -26,6 +26,7 @@ setup(
     entry_points={
         'console_scripts': [
             'move_robot = lab_1_package.move_robot:main',
+            'object_detection = lab_1_package.object_detection:main',
         ],
     },
 )

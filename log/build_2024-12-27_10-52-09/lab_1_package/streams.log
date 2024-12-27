@@ -1,0 +1,26 @@
+[1.512s] Invoking command in '/home/abel/CODE/AAiT/AI/ros_ws/src/lab_1_package': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abel/CODE/AAiT/AI/ros_ws/build/lab_1_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abel/CODE/AAiT/AI/ros_ws/install/lab_1_package/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lab_1_package build --build-base /home/abel/CODE/AAiT/AI/ros_ws/build/lab_1_package/build install --record /home/abel/CODE/AAiT/AI/ros_ws/build/lab_1_package/install.log --single-version-externally-managed install_data
+[1.941s] running egg_info
+[1.969s] writing ../../build/lab_1_package/lab_1_package.egg-info/PKG-INFO
+[1.970s] writing dependency_links to ../../build/lab_1_package/lab_1_package.egg-info/dependency_links.txt
+[1.970s] writing entry points to ../../build/lab_1_package/lab_1_package.egg-info/entry_points.txt
+[1.970s] writing requirements to ../../build/lab_1_package/lab_1_package.egg-info/requires.txt
+[1.970s] writing top-level names to ../../build/lab_1_package/lab_1_package.egg-info/top_level.txt
+[2.029s] reading manifest file '../../build/lab_1_package/lab_1_package.egg-info/SOURCES.txt'
+[2.029s] adding license file 'LICENSE'
+[2.030s] writing manifest file '../../build/lab_1_package/lab_1_package.egg-info/SOURCES.txt'
+[2.031s] running build
+[2.031s] running build_py
+[2.031s] copying lab_1_package/object_detection.py -> /home/abel/CODE/AAiT/AI/ros_ws/build/lab_1_package/build/lib/lab_1_package
+[2.032s] running install
+[2.043s] running install_lib
+[2.073s] copying /home/abel/CODE/AAiT/AI/ros_ws/build/lab_1_package/build/lib/lab_1_package/object_detection.py -> /home/abel/CODE/AAiT/AI/ros_ws/install/lab_1_package/lib/python3.12/site-packages/lab_1_package
+[2.074s] byte-compiling /home/abel/CODE/AAiT/AI/ros_ws/install/lab_1_package/lib/python3.12/site-packages/lab_1_package/object_detection.py to object_detection.cpython-312.pyc
+[2.075s] running install_data
+[2.075s] running install_egg_info
+[2.105s] removing '/home/abel/CODE/AAiT/AI/ros_ws/install/lab_1_package/lib/python3.12/site-packages/lab_1_package-0.0.0-py3.12.egg-info' (and everything under it)
+[2.105s] Copying ../../build/lab_1_package/lab_1_package.egg-info to /home/abel/CODE/AAiT/AI/ros_ws/install/lab_1_package/lib/python3.12/site-packages/lab_1_package-0.0.0-py3.12.egg-info
+[2.106s] running install_scripts
+[2.325s] Installing move_robot script to /home/abel/CODE/AAiT/AI/ros_ws/install/lab_1_package/lib/lab_1_package
+[2.325s] Installing object_detection script to /home/abel/CODE/AAiT/AI/ros_ws/install/lab_1_package/lib/lab_1_package
+[2.326s] writing list of installed files to '/home/abel/CODE/AAiT/AI/ros_ws/build/lab_1_package/install.log'
+[2.371s] Invoked command in '/home/abel/CODE/AAiT/AI/ros_ws/src/lab_1_package' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abel/CODE/AAiT/AI/ros_ws/build/lab_1_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abel/CODE/AAiT/AI/ros_ws/install/lab_1_package/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lab_1_package build --build-base /home/abel/CODE/AAiT/AI/ros_ws/build/lab_1_package/build install --record /home/abel/CODE/AAiT/AI/ros_ws/build/lab_1_package/install.log --single-version-externally-managed install_data

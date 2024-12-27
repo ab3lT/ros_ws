@@ -11,6 +11,7 @@ setup.py
 ../../build/lab_1_package/lab_1_package.egg-info/zip-safe
 lab_1_package/__init__.py
 lab_1_package/move_robot.py
+lab_1_package/object_detection.py
 launch/display.launch.py
 launch/gazebo_sim.launch.py
 resource/lab_1_package
